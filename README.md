@@ -278,8 +278,8 @@ SHAP (SHapley Additive exPlanations) values quantify each feature's contribution
 
 #### Feature Importance Ranking (Mean |SHAP|)
 
-| Rank | Feature | Mean |SHAP Value| |
-|------|---------|---------------------|
+| Rank | Feature | Mean SHAP Value |
+|------|---------|-----------------|
 | 1 | `cp` | 0.1170 |
 | 2 | `ca` | 0.1164 |
 | 3 | `thal` | 0.0907 |

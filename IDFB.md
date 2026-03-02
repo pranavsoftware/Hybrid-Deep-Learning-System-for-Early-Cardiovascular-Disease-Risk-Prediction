@@ -404,8 +404,8 @@ These results demonstrate the engine's ability to quantify the directional impac
 
 ### 8.6 SHAP Feature Importance (Top 5)
 
-| Rank | Feature | Mean |SHAP Value| | Clinical Interpretation |
-|------|---------|---------------------|-----------------------------|
+| Rank | Feature | Mean SHAP Value | Clinical Interpretation |
+|------|---------|-----------------|-------------------------|
 | 1 | `cp` (Chest Pain Type) | 0.1170 | Strongest predictor; higher type values → higher risk |
 | 2 | `ca` (Fluoroscopy Vessels) | 0.1164 | More colored vessels → substantially increased risk |
 | 3 | `thal` (Thalassemia) | 0.0907 | Thalassemia status creates strong directional shifts |
